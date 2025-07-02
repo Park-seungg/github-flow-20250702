@@ -1,7 +1,7 @@
 # github-flow-20250702
 
-dwakldmifernm
-afkladwkldmlefm
-sefklmselkfms
-eskflefmls
-fsemflksmfekl
+
+## 내역
+1. 빨리 하기
+2. 느리게 하기
+
